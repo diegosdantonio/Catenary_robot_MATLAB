@@ -21,7 +21,7 @@ git submodule update
 
 * run ```main.m```
 
-![](figures/fig1.png)
+![](figures/fig1.png | width=48)
 
 
 ### Main loop
